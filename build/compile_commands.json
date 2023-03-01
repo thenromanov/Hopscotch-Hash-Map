@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/contrib/catch\" -I\"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/util\"  -Wall -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c \"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/contrib/catch/catch_main.cpp\"",
+  "file": "/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/contrib/catch/catch_main.cpp"
+},
+{
+  "directory": "/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/util\" -I\"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/./src\" -I\"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/contrib/catch\"  -Wall -Wimplicit-fallthrough -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++20 -o CMakeFiles/test_hash_map.dir/tests/test.cpp.o -c \"/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/tests/test.cpp\"",
+  "file": "/Users/thenromanov/HSE/Algorithms and Data Structures/Hopscotch-Hash-Map/tests/test.cpp"
+}
+]
